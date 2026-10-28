@@ -1,0 +1,11 @@
+Detected Languages and Design Patterns:
+- HTML
+- CSS
+- Shell
+ 
+Design patterns detected:
+ 
+- Singleton
+- Observer
+- Strategy
+- Decorator
